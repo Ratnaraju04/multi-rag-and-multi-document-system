@@ -1,0 +1,26 @@
+# Multi-Modal RAG Dependencies for Google Colab and Local Backend
+google-genai>=0.1.1
+google-generativeai>=0.8.0
+chromadb>=0.5.0
+open-clip-torch>=2.24.0
+sentence-transformers>=3.0.0
+torch
+torchvision
+pillow>=10.0.0
+opencv-python-headless>=4.8.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+pydantic>=2.0.0
+tqdm>=4.66.0
+streamlit>=1.30.0
+pypdf>=4.0.0
+
+# Extended Multi-Vector DB & Multi-LLM Providers
+faiss-cpu>=1.7.4
+qdrant-client>=1.7.0
+groq>=0.4.0
+huggingface-hub>=0.20.0
+tiktoken>=0.5.0
+

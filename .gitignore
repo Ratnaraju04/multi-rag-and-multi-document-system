@@ -1,0 +1,22 @@
+# Secrets
+.env
+*.env
+
+# Dependencies & Build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python Cache & Tests
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases & Runtime Generated Files
+chroma_multimodal_db/
+faiss_store/
+extracted_frames/
+eval_history.db
+uploaded_user_data/
+.streamlit/

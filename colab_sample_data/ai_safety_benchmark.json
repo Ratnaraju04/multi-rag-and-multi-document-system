@@ -1,0 +1,23 @@
+[
+  {
+    "benchmark_id": "BENCH-001",
+    "task": "Adversarial Robustness",
+    "model_tested": "Gemini-2.5",
+    "accuracy": 94.8,
+    "status": "PASSED"
+  },
+  {
+    "benchmark_id": "BENCH-002",
+    "task": "Hallucination Mitigation",
+    "model_tested": "Gemini-2.5",
+    "accuracy": 92.1,
+    "status": "PASSED"
+  },
+  {
+    "benchmark_id": "BENCH-003",
+    "task": "Cross-Modal Retrieval",
+    "model_tested": "Multimodal-RAG",
+    "accuracy": 96.5,
+    "status": "PASSED"
+  }
+]
